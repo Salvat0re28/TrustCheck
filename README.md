@@ -1,6 +1,7 @@
 <p align="center">
-#TrustCheck
-
+# **TrustCheck**
+</p>
+<p align="center">
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![Aiogram](https://img.shields.io/badge/Aiogram-3.x-green.svg)](https://github.com/aiogram/aiogram)
 </p>
