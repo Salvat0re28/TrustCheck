@@ -1,11 +1,12 @@
 <p align="center">
-# TrustCheck
+#TrustCheck
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![Aiogram](https://img.shields.io/badge/Aiogram-3.x-green.svg)](https://github.com/aiogram/aiogram)
-
+</p>
+<p align="center">
 **TrustCheck** — это Telegram-бот для автоматической проверки и блокировки мошеннических сайтов. Бот анализирует домены по множеству параметров, ведёт чёрные и белые списки, а также поддерживает автоматическое управление списками на основе риск-оценки.
-
+</p>
 ## ✨ Возможности
 
 | Функция | Описание |
@@ -56,4 +57,4 @@
 | 4-7 | 🟡 Средний | Требует внимания |
 | 8-10 | 🔴 Высокий | Вероятный scam |
 | 11+ | ☠️ КРИТИЧЕСКИЙ | Авто-добавление в ЧС |
-</p>
+
