@@ -1,3 +1,4 @@
+<p align="center">
 # TrustCheck
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
@@ -55,4 +56,4 @@
 | 4-7 | 🟡 Средний | Требует внимания |
 | 8-10 | 🔴 Высокий | Вероятный scam |
 | 11+ | ☠️ КРИТИЧЕСКИЙ | Авто-добавление в ЧС |
-
+</p>
