@@ -1,0 +1,7 @@
+aiogram
+aiosqlite
+requests
+python-whois
+tldextract
+beautifulsoup4
+waybackpy
