@@ -46,6 +46,9 @@
 
 ### Уровни опасности
 
+<img width="690" height="159" alt="Group 481699" src="https://github.com/user-attachments/assets/0b3bb904-6267-4daf-91eb-c35898af2f23" />
+
+
 | Score | Уровень | Действие |
 |-------|---------|----------|
 | 0-3 | 🟢 Низкий | Безопасный сайт |
